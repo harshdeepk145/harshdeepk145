@@ -46,8 +46,6 @@ Backend      Python · Node.js · REST & GraphQL
 ---
 
 <p align="center">
-  Building at <a href="https://vavensoft.com">Vavensoft</a> · Mohali, India<br>
   <a href="https://upwork.com/freelancers/~0156304df3d72f135d"><b>Hire me on Upwork</b></a> ·
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+  <a href="mailto:kahlonharsh145@gmail.com">Email</a> ·
 </p>
